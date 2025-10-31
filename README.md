@@ -61,7 +61,7 @@ My work revolves around **medical imaging**, **object detection**, and **AI-driv
   <a href="mailto:temareharshita112@gmail.com">
     <img src="https://img.shields.io/badge/Email-temareharshita112%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/harshita-temare/" target="_blank">
+  <a href="https://www.linkedin.com/in/temareharshitaaa2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Harshita%20Temare-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/harshitatemare236005">
