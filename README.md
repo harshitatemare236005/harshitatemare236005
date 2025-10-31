@@ -58,7 +58,7 @@ My work revolves around **medical imaging**, **object detection**, and **AI-driv
 ### 🌷 Connect with Me
 
 <p align="center">
-  <a href="mailto:harshitatemare236005@gmail.com">
+  <a href="mailto:temareharshita112@gmail.com">
     <img src="https://img.shields.io/badge/Email-harshitatemare236005%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/harshita-temare/" target="_blank">
